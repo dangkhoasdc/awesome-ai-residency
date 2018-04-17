@@ -32,3 +32,4 @@
 
 - [My year at Brain](http://colinraffel.com/blog/my-year-at-brain.html).
 - [Google Brain Residency](http://tinyclouds.org/residency/)
+- [The Google Brain Residency Program - One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
