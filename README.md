@@ -1,4 +1,4 @@
-# List of AI Residency Program
+# List of AI Residency Programs
 
 ## 2018
 
@@ -33,3 +33,5 @@
 - [My year at Brain](http://colinraffel.com/blog/my-year-at-brain.html).
 - [Google Brain Residency](http://tinyclouds.org/residency/)
 - [The Google Brain Residency Program - One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
+- [Google AI Interview questions](https://medium.com/acing-ai/google-ai-interview-questions-acing-the-ai-interview-1791ad7dc3ae)
+- [Microsoft AI Interview questions](https://medium.com/acing-ai/microsoft-ai-interview-questions-acing-the-ai-interview-be6972f790ea)
