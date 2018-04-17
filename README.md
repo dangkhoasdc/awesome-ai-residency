@@ -27,3 +27,8 @@
 
 - Prepare for the Google AI Residency Program [[Link](https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected)]
 - Profile for Google AI Program [[Link](https://www.quora.com/Has-anyone-been-accepted-to-the-Google-Brain-Residency-Program-What-was-your-profile-when-you-applied)]
+
+### Blog
+
+- [My year at Brain](http://colinraffel.com/blog/my-year-at-brain.html).
+- [Google Brain Residency](http://tinyclouds.org/residency/)
