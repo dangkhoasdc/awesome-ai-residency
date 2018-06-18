@@ -12,6 +12,7 @@
 - PFN (Preferred Networks) AI residency program [[Link](https://www.preferred-networks.jp/en/news/residency-program2018-2019tokyo)]
 - Fall NAVER Clova AI Research Global Residency Program [[Link](https://clova.ai/m/en/research/careers.html)]
 - Machine Learning Fellow [[Link](https://jobs.lever.co/openai/54ddfefe-6483-4bba-a828-11a156eae7eb)]
+- OpenAI Fellow Fall 2018 [[Link](https://blog.openai.com/openai-fellows/)]
 
 ### Reddit
 
