@@ -14,6 +14,11 @@
 - Machine Learning Fellow [[Link](https://jobs.lever.co/openai/54ddfefe-6483-4bba-a828-11a156eae7eb)]
 - OpenAI Fellow Fall 2018 [[Link](https://blog.openai.com/openai-fellows/)]
 
+
+## 2019
+
+- Koninklijke Bibliotheek Researcher-in-residence [[Link](https://www.kb.nl/organisatie/vacatures-en-stages/researcher-in-residence)]
+
 ### Reddit
 
 - Google AI Residency Program: [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7rajic/d_anyone_heard_back_from_google_ai_residency/)],
