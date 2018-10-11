@@ -18,6 +18,8 @@
 ## 2019
 
 - Koninklijke Bibliotheek Researcher-in-residence [[Link](https://www.kb.nl/organisatie/vacatures-en-stages/researcher-in-residence)]
+- Google Residency [[Link](https://ai.google/research/join-us/ai-residency/)]
+- OpenAI 2019 Winter Scholars [[Link](https://blog.openai.com/openai-scholars-2019/)]
 
 ### Reddit
 
