@@ -2,6 +2,8 @@
 
 ## 2019
 
+### Programs open for 2019 Admissions
+
 - Google AI Residency Program[[Link](https://ai.google/research/join-us/ai-residency)]
 - OpenAI Fellow Fall 2019 [[Link](https://github.com/maharshi95/awesome-ai-residency.git)]
 
