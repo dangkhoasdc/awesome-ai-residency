@@ -1,5 +1,10 @@
 # List of AI Residency Programs
 
+## 2019
+
+- Google AI Residency Program[[Link](https://ai.google/research/join-us/ai-residency)]
+- OpenAI Fellow Fall 2019 [[Link](https://github.com/maharshi95/awesome-ai-residency.git)]
+
 ## 2018
 
 ### Programs
