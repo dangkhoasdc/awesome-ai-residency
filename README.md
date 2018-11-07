@@ -12,7 +12,7 @@
 
 
 ### Reddit
-
+- 2019 AI Residency Thread [[Link](https://www.reddit.com/r/MachineLearning/comments/9uaz3m/d_2019_ai_residency_thread_program_deadlines)]
 - Google AI Residency Program: [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7rajic/d_anyone_heard_back_from_google_ai_residency/)],
 [[Link 2](https://www.reddit.com/r/MachineLearning/comments/690ixs/d_google_brain_residency_requirements_and/)],
 - Microsoft AI Residency Program [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7u2a19/news_microsoft_ai_residency/)]
