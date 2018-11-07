@@ -7,7 +7,7 @@
 - OpenAI 2019 Winter Scholars [[Link](https://blog.openai.com/openai-scholars-2019/)]. Application Deadline: Nov 16, 2018.
 - 2019 Spring NAVER Clova AI Research Global Residency Program [[Link](https://clova.ai/en/research/careers.html)]. Application Deadline: Oct 31, 2018, Extended to: Nov 15, 2018.
 - Nvidia AI Research Residency [[Link](https://research.nvidia.com/research-residency)]
-- Intel AI Residency [[Link](https://ai.intel.com/research-programs/)]
+- Intel AI Residency [[Link](https://jobs.intel.com/page/show/ai-jobs-ai-internships-residency?ai-jobs-ai-internships-residency)]
 - Microsoft AI Residency Program [[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)]. Application Deadline: Jan 31, 2019.
 
 
