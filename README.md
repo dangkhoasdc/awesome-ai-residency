@@ -10,6 +10,7 @@
 - Intel AI Residency [[Link](https://jobs.intel.com/page/show/ai-jobs-ai-internships-residency?ai-jobs-ai-internships-residency)]
 - Microsoft AI Residency Program [[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)]. Application Deadline: Jan 31, 2019.
 - Uber AI Residency Program [[Link](https://careersinfo.uber.com/ai-residency)]. Application Deadline: Jan 13, 2019.
+- Shell AI Residency Program [[Link](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html)].
 
 
 ### Reddit
