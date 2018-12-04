@@ -11,7 +11,7 @@
 - Microsoft AI Residency Program [[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)]. Application Deadline: Jan 31, 2019.
 - Uber AI Residency Program [[Link](https://careersinfo.uber.com/ai-residency)]. Application Deadline: Jan 13, 2019.
 - Shell AI Residency Program [[Link](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html)].
-
+- Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-residency-program/)]. Application Deadline: Monday, January 28, 2019 at 5:00 pm PST.
 
 ### Reddit
 - 2019 AI Residency Thread [[Link](https://www.reddit.com/r/MachineLearning/comments/9uaz3m/d_2019_ai_residency_thread_program_deadlines)]
