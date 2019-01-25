@@ -22,6 +22,7 @@
 [[Link 2](https://www.reddit.com/r/MachineLearning/comments/7xxng0/d_anyone_hear_back_from_facebook_ai_research_fair/)],
 [[Link 3](https://www.reddit.com/r/MachineLearning/comments/7t9y9f/discussion_facebook_ai_residency_closed_early/)]
 - Uber AI Residency Program: [[Link](https://www.reddit.com/r/MachineLearning/comments/7yycov/d_introducing_the_uber_ai_residency/)]
+- Microsoft Residency Discussion [[Link](https://www.reddit.com/r/MachineLearning/comments/ahshx7/d_microsoft_ai_residency_2019_discussion/?st=jrc52rte&sh=33ed04bf)]
 
 ### Quora
 
@@ -35,6 +36,7 @@
 - [The Google Brain Residency Program - One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
 - [Google AI Interview questions](https://medium.com/acing-ai/google-ai-interview-questions-acing-the-ai-interview-1791ad7dc3ae)
 - [Microsoft AI Interview questions](https://medium.com/acing-ai/microsoft-ai-interview-questions-acing-the-ai-interview-be6972f790ea)
+- [Writing a Google AI Residency Cover Letter](https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html)
 
 ## 2018
 
