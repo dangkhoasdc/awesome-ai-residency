@@ -12,6 +12,7 @@
 - Uber AI Residency Program [[Link](https://careersinfo.uber.com/ai-residency)]. Application Deadline: Jan 13, 2019.
 - Shell AI Residency Program [[Link](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html)].
 - Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-residency-program/)]. Application Deadline: Monday, January 28, 2019 at 5:00 pm PST.
+- PAI Fellowship Program  [[Link](https://www.partnershiponai.org/fellowship-program/)]
 
 ### Reddit
 - 2019 AI Residency Thread [[Link](https://www.reddit.com/r/MachineLearning/comments/9uaz3m/d_2019_ai_residency_thread_program_deadlines)]
@@ -23,6 +24,7 @@
 [[Link 3](https://www.reddit.com/r/MachineLearning/comments/7t9y9f/discussion_facebook_ai_residency_closed_early/)]
 - Uber AI Residency Program: [[Link](https://www.reddit.com/r/MachineLearning/comments/7yycov/d_introducing_the_uber_ai_residency/)]
 - Microsoft Residency Discussion [[Link](https://www.reddit.com/r/MachineLearning/comments/ahshx7/d_microsoft_ai_residency_2019_discussion/?st=jrc52rte&sh=33ed04bf)]
+
 
 ### Quora
 
