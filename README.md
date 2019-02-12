@@ -8,6 +8,7 @@
 - 2019 Spring NAVER Clova AI Research Global Residency Program [[Link](https://clova.ai/en/research/careers.html)]. Application Deadline: Oct 31, 2018, Extended to: Nov 15, 2018.
 - Nvidia AI Research Residency [[Link](https://research.nvidia.com/research-residency)]
 - Intel AI Residency [[Link](https://jobs.intel.com/page/show/ai-jobs-ai-internships-residency?ai-jobs-ai-internships-residency)]
+- IBM AI Residency Program [[Link]](https://careers.ibm.com/ShowJob/Id/508504/IBM-Research-AI-Residency-Program/?lang=en)
 - Microsoft AI Residency Program [[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)]. Application Deadline: Jan 31, 2019.
 - Uber AI Residency Program [[Link](https://careersinfo.uber.com/ai-residency)]. Application Deadline: Jan 13, 2019.
 - Shell AI Residency Program [[Link](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html)].
