@@ -14,6 +14,7 @@
 - Shell AI Residency Program [[Link](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html)].
 - Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-residency-program/)]. Application Deadline: Monday, January 28, 2019 at 5:00 pm PST.
 - PAI Fellowship Program  [[Link](https://www.partnershiponai.org/fellowship-program/)]
+- VinAI - AI Residency Program [[Link](https://www.vinai.io/airesidency.html)]
 
 ### Reddit
 - 2019 AI Residency Thread [[Link](https://www.reddit.com/r/MachineLearning/comments/9uaz3m/d_2019_ai_residency_thread_program_deadlines)]
