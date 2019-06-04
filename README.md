@@ -1,5 +1,11 @@
 # List of AI Residency Programs
 
+## All year internships: 
+- MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
+
+## 2020 
+- Google X AI Residency [[Link](https://x.company/careers-at-x/4225880002/)]
+
 ## 2019
 
 - Koninklijke Bibliotheek Researcher-in-residence [[Link](https://www.kb.nl/organisatie/vacatures-en-stages/researcher-in-residence)]
