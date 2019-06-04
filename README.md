@@ -1,5 +1,8 @@
 # List of AI Residency Programs
 
+## 2020 
+- Google X AI Residency [[Link](https://x.company/careers-at-x/4225880002/)]
+
 ## 2019
 
 - Koninklijke Bibliotheek Researcher-in-residence [[Link](https://www.kb.nl/organisatie/vacatures-en-stages/researcher-in-residence)]
