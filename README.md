@@ -5,6 +5,8 @@
 
 ## 2020 
 - Google X AI Residency [[Link](https://x.company/careers-at-x/4225880002/)]
+- Google AI Resident (Health), 2020 Start - London, UK  [[Link](https://careers.google.com/jobs/results/136709006283416262-google-ai-resident-health-2020-start-fixed-term-employee/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=Residency%20Program%20Healthcare&sort_by=relevance)]
+- Google AI Resident (Health), 2020 - Start Palo Alto, CA, USA [[Link](https://careers.google.com/jobs/results/95901233513931462-google-ai-resident-health-2020-start-fixed-term-employee/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=Residency%20Program%20Healthcare&sort_by=relevance)]
 
 ## 2019
 
