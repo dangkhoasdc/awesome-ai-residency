@@ -7,6 +7,7 @@
 - Google X AI Residency [[Link](https://x.company/careers-at-x/4225880002/)]
 - Google AI Resident (Health), 2020 Start - London, UK  [[Link](https://careers.google.com/jobs/results/136709006283416262-google-ai-resident-health-2020-start-fixed-term-employee/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=Residency%20Program%20Healthcare&sort_by=relevance)]
 - Google AI Resident (Health), 2020 - Start Palo Alto, CA, USA [[Link](https://careers.google.com/jobs/results/95901233513931462-google-ai-resident-health-2020-start-fixed-term-employee/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=Residency%20Program%20Healthcare&sort_by=relevance)]
+- OpenAI 2020 Winter Scholars [[Link](https://jobs.lever.co/openai/d30e1f04-b548-4503-ba8b-9853cb49bdc7)]. Application Deadline: Nov 15, 2019.
 
 ## 2019
 
