@@ -3,7 +3,9 @@
 ## All year internships: 
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
 
-## 2020 
+## 2020
+- Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-residency-program/)]. Application Deadline: January 31, 2020, 05:00pm PST.
+- Google AI Residency [[Link](https://ai.google/research/join-us/ai-residency/)]. Application Deadline:  December 19th, 2019.
 - Google X AI Residency [[Link](https://x.company/careers-at-x/4225880002/)]
 - Google AI Resident (Health), 2020 Start - London, UK  [[Link](https://careers.google.com/jobs/results/136709006283416262-google-ai-resident-health-2020-start-fixed-term-employee/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=Residency%20Program%20Healthcare&sort_by=relevance)]
 - Google AI Resident (Health), 2020 - Start Palo Alto, CA, USA [[Link](https://careers.google.com/jobs/results/95901233513931462-google-ai-resident-health-2020-start-fixed-term-employee/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=Residency%20Program%20Healthcare&sort_by=relevance)]
