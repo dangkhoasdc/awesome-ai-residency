@@ -4,6 +4,7 @@
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
 
 ## 2020
+- Shell AI Residency Program [[Link]](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html) . Application Deadline: Dec 31, 2019.
 - Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-residency-program/)]. Application Deadline: January 31, 2020, 05:00pm PST.
 - Microsoft AI Residency Program [[Link]](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/?OCID=msr_career_aires_tw) . Application Deadline: Jan 31, 2020.
 - Google AI Residency [[Link](https://ai.google/research/join-us/ai-residency/)]. Application Deadline:  December 19th, 2019.
