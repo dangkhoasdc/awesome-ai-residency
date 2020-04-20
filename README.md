@@ -48,7 +48,8 @@
 - Profile for Google AI Program [[Link](https://www.quora.com/Has-anyone-been-accepted-to-the-Google-Brain-Residency-Program-What-was-your-profile-when-you-applied)]
 
 ### Blog
-
+- [Video: AI Residency 2020: All You Need to Know (+examples)](https://www.youtube.com/watch?v=L_OtjN-KfRc&feature=emb_title).
+- [Video: AI Residency Interview: All you need to know [Research Internship Interview]](https://www.youtube.com/watch?v=Wj3RfjZwues&feature=emb_title)
 - [My year at Brain](http://colinraffel.com/blog/my-year-at-brain.html).
 - [Google Brain Residency](http://tinyclouds.org/residency/)
 - [The Google Brain Residency Program - One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
