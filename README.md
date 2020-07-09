@@ -4,6 +4,8 @@
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
 
 ## 2020
+- AI Residency Applied to Industry for professionals [[Link]](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/programa-de-residencia-em-inteligencia-artificial-1-36629-439969.shtml). Application Deadline: Mar 15, 2020.
+- AI Residency Applied to Industry for companies [[Link]](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/residencia-1-36629-428622.shtml). Application Deadline: Jul 31, 2020.
 - Uber AI Residency Program [[Link]](https://careersinfo.uber.com/ai-residency) . Application Deadline: Jan 19, 2020.
 - Shell AI Residency Program [[Link]](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html) . Application Deadline: Dec 31, 2019.
 - Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-residency-program/)]. Application Deadline: January 31, 2020, 05:00pm PST.
