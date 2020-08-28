@@ -4,6 +4,9 @@
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
 - DeepkaphaAI (3 months)[[Link](https://deepkapha.ai/enroll/)]
 
+## 2021
+- Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/introducing-aiml-residency-program).
+
 ## 2020
 - AI Residency Applied to Industry for professionals [[Link]](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/programa-de-residencia-em-inteligencia-artificial-1-36629-439969.shtml). Application Deadline: Mar 15, 2020.
 - AI Residency Applied to Industry for companies [[Link]](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/residencia-1-36629-428622.shtml). Application Deadline: Jul 31, 2020.
