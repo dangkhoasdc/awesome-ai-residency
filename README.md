@@ -2,7 +2,7 @@
 
 ## All year internships: 
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
-- DeepkaphaAI (3 months)[[Link](https://deepkapha.ai/enroll/)]
+- DeepkaphaAI (12 months)[[Link](https://deepkapha.ai/enroll/)]
 
 ## 2021
 - Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/introducing-aiml-residency-program).
