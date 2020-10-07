@@ -2,6 +2,7 @@
 
 ## All year internships: 
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
+- University of Leeds[[LINK](https://eps.leeds.ac.uk/computing-research-degrees/doc/apply)]
 
 ## 2020
 - AI Residency Applied to Industry for professionals [[Link]](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/programa-de-residencia-em-inteligencia-artificial-1-36629-439969.shtml). Application Deadline: Mar 15, 2020.
