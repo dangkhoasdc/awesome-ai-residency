@@ -3,6 +3,7 @@
 ## All year internships: 
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
 - DeepkaphaAI (12 months)[[Link](https://deepkapha.ai/enroll/)]
+-University of Leeds[[LINK](https://eps.leeds.ac.uk/computing-research-degrees/doc/apply)]
 
 ## 2021
 - Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/introducing-aiml-residency-program).
