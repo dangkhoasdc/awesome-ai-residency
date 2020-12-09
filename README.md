@@ -5,6 +5,7 @@
 - DeepkaphaAI (12 months)[[Link](https://deepkapha.ai/enroll/)]
 
 ## 2021
+- Facebook AI Residency Program [[London 2021](https://www.facebook.com/careers/jobs/810907319483158/), [US Locations](https://www.facebook.com/careers/jobs/401746167843189/)]
 - Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/introducing-aiml-residency-program).
 - Open AI Scholars Program : Fall 2020 [[Link]](https://jobs.lever.co/openai/90311c53-38a6-467d-98ca-2d2735fa1a8a).
 
