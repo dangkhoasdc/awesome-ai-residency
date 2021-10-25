@@ -4,6 +4,10 @@
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
 - DeepkaphaAI (12 months)[[Link](https://deepkapha.ai/enroll/)]
 
+## 2022
+- Facebook AI Residency Program [[Link]](https://www.facebookcareers.com/jobs/221246603377392/)
+- Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2022).
+
 ## 2021
 - Facebook AI Residency Program [[London 2021](https://www.facebook.com/careers/jobs/810907319483158/), [US Locations](https://www.facebook.com/careers/jobs/401746167843189/)]
 - Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/introducing-aiml-residency-program).
