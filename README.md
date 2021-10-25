@@ -10,6 +10,7 @@
 - Open AI Scholars Program : Fall 2020 [[Link]](https://jobs.lever.co/openai/90311c53-38a6-467d-98ca-2d2735fa1a8a).
 - IBM AI Residency Program : Fall 2021 [[link]](https://www.research.ibm.com/artificial-intelligence/careers/ai-residency/#about)
 - Shell.ai Residency Programme [[Link](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai/shell-ai-residency-programme.html)]
+- Novartis AI for Life Residency Program [[Link](https://www.novartis.com/our-focus/data-and-digital/artificial-intelligence/ai-life-residency-program?utm_campaign=2020-1-ai-residency-program&utm_medium=social-organic&utm_source=youtube&utm_content=video)]
 
 ## 2020
 - AI Residency Applied to Industry for professionals [[Link]](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/programa-de-residencia-em-inteligencia-artificial-1-36629-439969.shtml). Application Deadline: Mar 15, 2020.
