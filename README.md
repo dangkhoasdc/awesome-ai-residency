@@ -5,6 +5,7 @@
 - DeepkaphaAI (12 months)[[Link](https://deepkapha.ai/enroll/)]
 
 ## 2022
+- OpenAI Residency [[Link]](https://openai.com/blog/openai-residency/)
 - Facebook AI Residency Program [[Link]](https://www.facebookcareers.com/jobs/221246603377392/)
 - Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2022).
 
