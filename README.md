@@ -3,6 +3,7 @@
 ## All year internships: 
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
 - DeepkaphaAI (12 months)[[Link](https://deepkapha.ai/enroll/)]
+- VinAI AI Residency [[Link](https://www.vinai.io/ai-residency/)]
 
 ## 2022
 - OpenAI Residency [[Link]](https://openai.com/blog/openai-residency/)
