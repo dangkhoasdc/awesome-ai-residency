@@ -10,6 +10,7 @@
 - Anthropic [[Link]](https://jobs.lever.co/Anthropic/6fdef6f7-b3fe-4a5b-b504-aea0c12168d3)
 - Hugging Face [[Link]](https://huggingface.co/blog/ai-residency)
 - NVIDIA AI Research Residency [[Link]](https://www.nvidia.com/en-us/research/ai-research-residency/)
+- Novartis AI for Life Residency Program [[Link](https://www.novartis.com/about/strategy/data-and-digital/artificial-intelligence/novartis-ai-life-residency-program)]
 - ~~Facebook AI Residency Program [[Link]](https://www.facebookcareers.com/jobs/221246603377392/)~~
 - ~~Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2022).~~
 
