@@ -7,11 +7,12 @@
 
 ## 2022
 - OpenAI Residency [[Link]](https://openai.com/blog/openai-residency/)
-- Facebook AI Residency Program [[Link]](https://www.facebookcareers.com/jobs/221246603377392/)
-- Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2022).
 - Anthropic [[Link]](https://jobs.lever.co/Anthropic/6fdef6f7-b3fe-4a5b-b504-aea0c12168d3)
 - Hugging Face [[Link]](https://huggingface.co/blog/ai-residency)
 - NVIDIA AI Research Residency [[Link]](https://www.nvidia.com/en-us/research/ai-research-residency/)
+- ~~Facebook AI Residency Program [[Link]](https://www.facebookcareers.com/jobs/221246603377392/)~~
+- ~~Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2022).~~
+
 
 ## 2021
 - Facebook AI Residency Program [[London 2021](https://www.facebook.com/careers/jobs/810907319483158/), [US Locations](https://www.facebook.com/careers/jobs/401746167843189/)]
