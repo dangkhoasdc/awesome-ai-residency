@@ -5,6 +5,10 @@
 - DeepkaphaAI (12 months)[[Link](https://deepkapha.ai/enroll/)]
 - VinAI AI Residency [[Link](https://www.vinai.io/ai-residency/)]
 
+## 2023
+- OpenAI Residency-Research [[Link]](https://boards.greenhouse.io/openai/jobs/4613337004)
+- OpenAI Residency-Software Engineering [[Link]](https://boards.greenhouse.io/openai/jobs/4613303004)
+
 ## 2022
 - OpenAI Residency [[Link]](https://openai.com/blog/openai-residency/)
 - Anthropic [[Link]](https://jobs.lever.co/Anthropic/6fdef6f7-b3fe-4a5b-b504-aea0c12168d3)
