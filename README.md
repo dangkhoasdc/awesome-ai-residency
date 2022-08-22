@@ -17,6 +17,7 @@
 - Novartis AI for Life Residency Program [[Link](https://www.novartis.com/about/strategy/data-and-digital/artificial-intelligence/novartis-ai-life-residency-program)]
 - ~~Facebook AI Residency Program [[Link]](https://www.facebookcareers.com/jobs/221246603377392/)~~
 - ~~Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2022).~~
+- Allen AI Predoctoral Young Investigator [[Link]](https://boards.greenhouse.io/thealleninstitute/jobs/2138908)
 
 
 ## 2021
