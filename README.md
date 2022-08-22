@@ -15,9 +15,10 @@
 - Hugging Face [[Link]](https://huggingface.co/blog/ai-residency)
 - NVIDIA AI Research Residency [[Link]](https://www.nvidia.com/en-us/research/ai-research-residency/)
 - Novartis AI for Life Residency Program [[Link](https://www.novartis.com/about/strategy/data-and-digital/artificial-intelligence/novartis-ai-life-residency-program)]
-- ~~Facebook AI Residency Program [[Link]](https://www.facebookcareers.com/jobs/221246603377392/)~~
-- ~~Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2022).~~
 - Allen AI Predoctoral Young Investigator [[Link]](https://boards.greenhouse.io/thealleninstitute/jobs/2138908)
+- ~~Facebook AI Residency Program [[Link]](https://www.facebookcareers.com/jobs/221246603377392/)~~
+- ~~Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2022)~~
+
 
 
 ## 2021
