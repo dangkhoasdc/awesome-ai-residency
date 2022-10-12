@@ -8,6 +8,7 @@
 ## 2023
 - OpenAI Residency-Research [[Link]](https://boards.greenhouse.io/openai/jobs/4613337004)
 - OpenAI Residency-Software Engineering [[Link]](https://boards.greenhouse.io/openai/jobs/4613303004)
+- Meta AI Residency [[Link]](https://ai.facebook.com/join-us/residency-program/)
 
 ## 2022
 - OpenAI Residency [[Link]](https://openai.com/blog/openai-residency/)
