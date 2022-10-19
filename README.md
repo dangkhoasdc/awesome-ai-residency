@@ -5,6 +5,10 @@
 - DeepkaphaAI (12 months)[[Link](https://deepkapha.ai/enroll/)]
 - VinAI AI Residency [[Link](https://www.vinai.io/ai-residency/)]
 
+## All year bootcamps (hands-on supervised projects):
+- Fellowship.AI [[Link]](https://www.fellowship.ai/apply)
+- PiCampus School [[Link]](https://picampus-school.com/programme/school-of-artificial-intelligence/)
+
 ## 2023
 - OpenAI Residency-Research [[Link]](https://boards.greenhouse.io/openai/jobs/4613337004)
 - OpenAI Residency-Software Engineering [[Link]](https://boards.greenhouse.io/openai/jobs/4613303004)
