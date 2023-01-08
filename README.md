@@ -14,6 +14,7 @@
 - OpenAI Residency-Software Engineering [[Link]](https://boards.greenhouse.io/openai/jobs/4613303004)
 - Meta AI Residency [[Link]](https://ai.facebook.com/join-us/residency-program/)
 - Apple The 2023 AI/ML Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2023)
+- DeepLabCut AI Residency [[Link]](https://www.deeplabcutairesidency.org/)
 
 ## 2022
 - OpenAI Residency [[Link]](https://openai.com/blog/openai-residency/)
