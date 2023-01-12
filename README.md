@@ -15,6 +15,7 @@
 - Meta AI Residency [[Link]](https://ai.facebook.com/join-us/residency-program/)
 - Apple The 2023 AI/ML Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2023)
 - DeepLabCut AI Residency [[Link]](https://www.deeplabcutairesidency.org/)
+- Salesforce AI Residency Program [[link]](https://www.salesforce.com/company/careers/university-recruiting/ai-residency/)
 
 ## 2022
 - OpenAI Residency [[Link]](https://openai.com/blog/openai-residency/)
