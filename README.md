@@ -10,6 +10,7 @@
 - PiCampus School [[Link]](https://picampus-school.com/programme/school-of-artificial-intelligence/)
 
 ## 2023
+- Microsoft Research: Postdoc Residency Programme - Deep Learning for Science [[Link](https://careers.microsoft.com/us/en/job/1523421/Postdoc-Residency-Programme-Deep-Learning-for-Science)]
 - Cambridge Residency Program: Researcher on Large Language Models for End-User Programming [[Link](https://careers.microsoft.com/us/en/job/1523586/Cambridge-Residency-Program-Researcher-on-Large-Language-Models-for-End-User-Programming)]
 - OpenAI Residency-Research [[Link]](https://boards.greenhouse.io/openai/jobs/4613337004)
 - OpenAI Residency-Software Engineering [[Link]](https://boards.greenhouse.io/openai/jobs/4613303004)
