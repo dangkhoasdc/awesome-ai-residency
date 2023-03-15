@@ -20,6 +20,7 @@
 - DeepLabCut AI Residency [[Link]](https://www.deeplabcutairesidency.org/)
 - Salesforce AI Residency Program [[link]](https://www.salesforce.com/company/careers/university-recruiting/ai-residency/)
 - Toyota Research Institute AI Resident [[Link]](https://jobs.lever.co/tri/43c61326-ba4a-4215-84b4-0c3db8896381)
+- Vector Institute AI Masters [[Link]](https://vectorinstitute.ai/aimasters/)
 
 ## 2022
 - OpenAI Residency [[Link]](https://openai.com/blog/openai-residency/)
@@ -30,8 +31,6 @@
 - Allen AI Predoctoral Young Investigator [[Link]](https://boards.greenhouse.io/thealleninstitute/jobs/2138908)
 - ~~Facebook AI Residency Program [[Link]](https://www.facebookcareers.com/jobs/221246603377392/)~~
 - ~~Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2022)~~
-
-
 
 ## 2021
 - Facebook AI Residency Program [[London 2021](https://www.facebook.com/careers/jobs/810907319483158/), [US Locations](https://www.facebook.com/careers/jobs/401746167843189/)]
