@@ -1,4 +1,4 @@
-# List of AI Residency Programs
+# Awesome AI Residency Programs
 
 ## All year internships: 
 - Mila (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
