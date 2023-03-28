@@ -4,7 +4,7 @@
 
 - [All Year](#all-year)
   - [Internships](#internships)
-  - [Bootcamps)[#bootcamps)
+  - [Bootcamps](#bootcamps)
 - [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
