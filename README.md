@@ -1,5 +1,21 @@
 # Awesome AI Residency Programs ![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+## Contents
+
+- [All Year](#all-year)
+  - [Internships](#internships)
+  - [Bootcamps)[#bootcamps)
+- [2023](#2023)
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
+- [Articles & Blogs](#articles--blogs)
+  - [Reddit](#reddit)
+  - [Quora](#quora)
+  - [Blog](#blog)
+
 # All Year
 ## Internships
 - Mila (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
