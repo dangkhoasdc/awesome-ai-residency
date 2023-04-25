@@ -32,6 +32,7 @@ Hands-on supervised projects:
 - 2023 PhD Residency - ML / Physics - Photonic Inverse Design [[Link](https://x.company/careers-at-x/6637090002/)]
 - Microsoft Research: Postdoc Residency Programme - Deep Learning for Science [[Link](https://careers.microsoft.com/us/en/job/1523421/Postdoc-Residency-Programme-Deep-Learning-for-Science)]
 - Cambridge Residency Program: Researcher on Large Language Models for End-User Programming [[Link](https://careers.microsoft.com/us/en/job/1523586/Cambridge-Residency-Program-Researcher-on-Large-Language-Models-for-End-User-Programming)]
+- Cambridge Residency Programme: Associate Researcher (Game Intelligence) [[Link](https://jobs.careers.microsoft.com/global/en/job/1546267/Cambridge-Residency-Programme-Associate-Researcher-Game-Intelligence)]
 - OpenAI Residency-Research [[Link]](https://boards.greenhouse.io/openai/jobs/4613337004)
 - OpenAI Residency-Software Engineering [[Link]](https://boards.greenhouse.io/openai/jobs/4613303004)
 - Meta AI Residency [[Link]](https://ai.facebook.com/join-us/residency-program/)
