@@ -27,6 +27,9 @@ Hands-on supervised projects:
 - Fellowship.AI [[Link]](https://www.fellowship.ai/apply)
 - PiCampus School [[Link]](https://picampus-school.com/programme/school-of-artificial-intelligence/)
 
+## 2024
+- Apple AIML Resident - Machine Learning Research (July 15, 2024 - July 11, 2025 / Application deadline: Dec 15 2023) [[Link](https://jobs.apple.com/en-us/details/200514644/aiml-resident-machine-learning-research?team=MLAI)]
+
 ## 2023
 - SandboxAQ Residency Program [[Link](https://www.sandboxaq.com/residencies)]
 - 2023 PhD Residency - ML / Physics - Photonic Inverse Design [[Link](https://x.company/careers-at-x/6637090002/)]
