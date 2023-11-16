@@ -29,6 +29,7 @@ Hands-on supervised projects:
 
 ## 2024
 - Apple AIML Resident - Machine Learning Research (July 15, 2024 - July 11, 2025 / Application deadline: Dec 15 2023) [[Link](https://jobs.apple.com/en-us/details/200514644/aiml-resident-machine-learning-research?team=MLAI)]
+- Fatima Fellowship (April 2024 - December 2024) [[Link](https://www.fatimafellowship.com/)]
 
 ## 2023
 - SandboxAQ Residency Program [[Link](https://www.sandboxaq.com/residencies)]
