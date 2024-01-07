@@ -21,6 +21,7 @@
 - Mila (6 months)[[Link](https://mila.quebec/en/research-programs/)]
 - DeepkaphaAI (12 months)[[Link](https://deepkapha.ai/enroll/)]
 - VinAI AI Residency [[Link](https://www.vinai.io/ai-residency/)]
+- Compilation of Predoc opportunities [[Link](https://predoc.org/opportunities)]
 
 ## Bootcamps 
 Hands-on supervised projects:
