@@ -29,6 +29,10 @@ Hands-on supervised projects:
 - Fellowship.AI [[Link]](https://www.fellowship.ai/apply)
 - PiCampus School [[Link]](https://picampus-school.com/programme/school-of-artificial-intelligence/)
 
+## 2025
+
+- AIML Resident - ML Research - Controllable Generative AI (July 14, 2025 - July 10, 2026, APPLICATION DEADLINE: DECEMBER 16, 2024) [[Link](https://jobs.apple.com/en-us/details/200574846/aiml-resident-ml-research-controllable-generative-ai?team=MLAI)]
+
 ## 2024
 - Apple AIML Resident - Machine Learning Research (July 15, 2024 - July 11, 2025 / Application deadline: Dec 15 2023) [[Link](https://machinelearning.apple.com/updates/aiml-residency-program-application-2024)]
 - Fatima Fellowship (April 2024 - December 2024) [[Link](https://www.fatimafellowship.com/)]
