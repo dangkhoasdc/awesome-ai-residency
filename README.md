@@ -32,6 +32,7 @@ Hands-on supervised projects:
 ## 2025
 
 - AIML Resident - ML Research - Controllable Generative AI (July 14, 2025 - July 10, 2026, APPLICATION DEADLINE: DECEMBER 16, 2024) [[Link](https://jobs.apple.com/en-us/details/200574846/aiml-resident-ml-research-controllable-generative-ai?team=MLAI)]
+- Anthropic AI Safety Fellowship 2025[[Link: https://alignment.anthropic.com/2024/anthropic-fellows-program/]]
 
 ## 2024
 - Apple AIML Resident - Machine Learning Research (July 15, 2024 - July 11, 2025 / Application deadline: Dec 15 2023) [[Link](https://machinelearning.apple.com/updates/aiml-residency-program-application-2024)]
