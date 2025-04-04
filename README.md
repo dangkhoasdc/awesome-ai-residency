@@ -28,6 +28,7 @@
 Hands-on supervised projects:
 - Fellowship.AI [[Link]](https://www.fellowship.ai/apply)
 - PiCampus School [[Link]](https://picampus-school.com/programme/school-of-artificial-intelligence/)
+- The Machine Learning Institute [[Link](https://ml.institute/learn)]
 
 ## 2025
 
